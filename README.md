@@ -35,11 +35,11 @@ Asegúrate de instalarlas antes de ejecutar el script.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes una sugerencia para mejorar este script, no dudes en abrir un problema (issue) o una solicitud de extracción (pull request).
+Las contribuciones son bienvenidas. Si tienes una sugerencia para mejorar este script, no dudes en abrir una incidencia (issue) o un pull request.
 
 ## Licencia
 
-Este proyecto está licenciado bajo [insertar tipo de licencia], lo que significa que puedes modificar y distribuir libremente el código fuente siempre que respetes los términos de la licencia.
+Este proyecto está licenciado bajo la Licencia Creative Commons Attribution-NonCommercial (CC BY-NC) - ver el [enlace de la licencia](https://creativecommons.org/licenses/by-nc/4.0/) para más detalles. Eres libre de compartir y adaptar el material siempre que reconozcas la autoría y no lo utilices para fines comerciales.
 
 ## Autor
 
